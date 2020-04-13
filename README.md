@@ -2,5 +2,5 @@
 CA2 - basic SDN app
 
 ### Software used
-$ Mininet
-$ Rue controller
+- Mininet
+- Rue controller
